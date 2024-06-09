@@ -1,1 +1,7 @@
 iyuucn/iyuuplus-dev:latest
+linuxserver/deluge:latest
+linuxserver/plex
+linuxserver/resilio-sync
+linuxserver/jellyfin
+linuxserver/transmission:2.94-r3-ls53
+linuxserver/transmission:4.0.5
