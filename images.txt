@@ -7,4 +7,5 @@
 # plex
 linuxserver/plex:latest
 iyuucn/iyuuplus-dev:latest
+linuxserver/transmission:4.1.0
 
